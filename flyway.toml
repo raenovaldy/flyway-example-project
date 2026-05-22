@@ -21,7 +21,7 @@ developmentEnvironment = "development"
 shadowEnvironment = "shadow"
 
   [flywayDesktop.generate]
-  undoScripts = false
+  undoScripts = true
 
 [redgateCompare]
 filterFile = "filter.rgf"

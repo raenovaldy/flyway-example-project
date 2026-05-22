@@ -1,0 +1,7 @@
+{
+  "filters": {
+    "synonym": [
+      "\!^RAE.FLYWAY_SNAPSHOT_HISTORY$"
+    ]
+  }
+}
